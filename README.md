@@ -6,40 +6,41 @@
 
 1. How is the district summary affected?
 
-[District_Summary_Result](https://github.com/Yunaka1269/School_District_Analysis/blob/main/Pictures/District_Summary.PNG)
+ [District_Summary_Result](https://github.com/Yunaka1269/School_District_Analysis/blob/main/Pictures/District_Summary.PNG)
   
--Decline shows in average math score by  -0.1, % passing math by -0.2%, % passing reading by -0.3%, and % overall passing by -0.1%  
+ -Decline shows in average math score by  -0.1, % passing math by -0.2%, % passing reading by -0.3%, and % overall passing by -0.1%  
 
 2. How is the school summary affected?
 
-[School_Summary_Result](https://github.com/Yunaka1269/School_District_Analysis/blob/main/Pictures/School_Summary.PNG)
+ [School_Summary_Result](https://github.com/Yunaka1269/School_District_Analysis/blob/main/Pictures/School_Summary.PNG)
   
--Increase in average reading score +.05
--Decline in average math score -0.07, % passing math -0.09%, % passing reading -0.29%, % overall passing -0.32%
+ -Increase in average reading score +.05
+
+ -Decline in average math score -0.07, % passing math -0.09%, % passing reading -0.29%, % overall passing -0.32%
 
 3. How does replacing the ninth grader's math and reading scores affect Thomas High School's performance relative to the other schools?
 
-[Top_Five_Schools_Result](https://github.com/Yunaka1269/School_District_Analysis/blob/main/Pictures/Top_Five.PNG) and [Bottom_Five_Schools_Result](https://github.com/Yunaka1269/School_District_Analysis/blob/main/Pictures/Bottom_Five.PNG)
+ [Top_Five_Schools_Result](https://github.com/Yunaka1269/School_District_Analysis/blob/main/Pictures/Top_Five.PNG) and [Bottom_Five_Schools_Result](https://github.com/Yunaka1269/School_District_Analysis/blob/main/Pictures/Bottom_Five.PNG)
   
--Top five and bottom five schools are the same even after the change being made. The change didn't affect significantly enough to move the overall ranking.  
+ -Top five and bottom five schools are the same even after the change being made. The change didn't affect significantly enough to move the overall ranking.  
 
-4. How does replacing the ninth-grade schores affect below
+4. How does replacing the ninth-grade scores affect below
 
-A. [Math_By_Grade_Result](https://github.com/Yunaka1269/School_District_Analysis/blob/main/Pictures/Math_By_Grade.PNG) and [Reading_By_Grade_Result](https://github.com/Yunaka1269/School_District_Analysis/blob/main/Pictures/Reading_By_Grade.PNG)
+ A. [Math_By_Grade_Result](https://github.com/Yunaka1269/School_District_Analysis/blob/main/Pictures/Math_By_Grade.PNG) and [Reading_By_Grade_Result](https://github.com/Yunaka1269/School_District_Analysis/blob/main/Pictures/Reading_By_Grade.PNG)
 	
--The change doesn't impact on other school or other grades math and reading score at all. The only change is Thomas High ninth grade scores become "nan".
+  -The change doesn't impact on other school or other grades math and reading score at all. The only change is Thomas High ninth grade scores become "nan".
 		
-B. [Scores by school spending_Result](https://github.com/Yunaka1269/School_District_Analysis/blob/main/Pictures/School_Spending.PNG) 
+ B. [Scores by school spending_Result](https://github.com/Yunaka1269/School_District_Analysis/blob/main/Pictures/School_Spending.PNG) 
 	
--The impact on scores by school spending category "($630-644)" is minimal as the values in dataframe are the same.
+  -The impact on scores by school spending category "($630-644)" is very little to none. The values in dataframe are the same.
 		
-C. [Scores by school size_Result](https://github.com/Yunaka1269/School_District_Analysis/blob/main/Pictures/School_Size.PNG)
+ C. [Scores by school size_Result](https://github.com/Yunaka1269/School_District_Analysis/blob/main/Pictures/School_Size.PNG)
 	
--The impact on scores by school size "Medium (1000-2000)" is minimal as the values in dataframe are the same.
+  -The impact on scores by school size "Medium (1000-2000)" is very little to none. The values in dataframe are the same.
 		
-D. [Scores by school type_Result](https://github.com/Yunaka1269/School_District_Analysis/blob/main/Pictures/School_Type.PNG)
+ D. [Scores by school type_Result](https://github.com/Yunaka1269/School_District_Analysis/blob/main/Pictures/School_Type.PNG)
 	
--The impact on scores by school type "Charter" is minimal as the values in dataframe are the same.
+  -The impact on scores by school type "Charter" is very little to none. The values in dataframe are the same.
     
 ###Resources
 - Data Source: schools_complete.csv, students_complete.csv
