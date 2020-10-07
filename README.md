@@ -46,6 +46,12 @@
 - Data Source: schools_complete.csv, students_complete.csv
 - Software: Jupyter Notebook 6.1.4
 
+- Code: import numpy as np
+  	df.loc["",""] 
+	df.isnull().sum()
+	df.value_counts()
+	df=pd.cut()
+
 ##Summary
 
 Even though Thomas High School ninth grader's scores are replaced with "NaN", they are still included in total students yet the impacts are very minimal on benchmarks because the population of Thomas High School ninth grade is 461 students which is just 1.2% of total students in the whole district. Also, the student counts of ninth grade was only deducted from the number of student who took test in Thomas High School for average score and passing % calculation. Therefore, the change doesn't affect the performance of other schools. The major changes in the updated school analysis are the values within Thomas High School summary, especially in % passing reading. By looking at the result change, average math score -0.07, average reading score +.05, % passing math -0.09%, % passing reading -0.29%, % overall passing -0.32%, the large number of Thomas High School ninth grader's reading score was near the average of 83 points. 
