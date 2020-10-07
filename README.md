@@ -47,9 +47,13 @@
 - Software: Jupyter Notebook 6.1.4
 
 - Code: import numpy as np
+
   	df.loc["",""] 
+	
 	df.isnull().sum()
+	
 	df.value_counts()
+	
 	df=pd.cut()
 
 ##Summary
