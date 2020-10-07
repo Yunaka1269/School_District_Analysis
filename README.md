@@ -46,15 +46,15 @@
 - Data Source: schools_complete.csv, students_complete.csv
 - Software: Jupyter Notebook 6.1.4
 
-- Code: import numpy as np
+- Code:      import numpy as np
 
-  	df.loc["",""] 
+  	     df.loc["",""] 
 	
-	df.isnull().sum()
+	     df.isnull().sum()
 	
-	df.value_counts()
+	     df.value_counts()
 	
-	df=pd.cut()
+	     df=pd.cut()
 
 ##Summary
 
